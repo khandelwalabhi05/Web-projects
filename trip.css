@@ -1,0 +1,137 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+   .to1{
+         height: 20px;
+         width: 100%;
+         background: black;
+         color: white;
+         font-family: 'Lato', sans-serif;
+         font-size: 14Px;
+         text-align: center;
+         line-height: 18px;
+         letter-spacing: 1px;
+;
+   }
+      .to1 i{
+              position: relative;
+              left: 552px;
+      }
+     .to2{
+     	height: 120px;
+     	width: 100%;
+     	background: white;
+
+     }
+         .to2 img{
+         	 width: 120px;
+         	 margin-left: 100px;
+         	 margin-top: 20px;
+
+         }
+           .to2 a{
+                padding-left: 24px;
+                font-family: 'Lato', sans-serif;
+                font-size: 15px;
+
+           }
+             .to3 button{
+               position: relative;
+               bottom: 430px;
+               left: 170px;
+               border-radius: 5px;
+               background: rgba(255,255,255,.3);
+               color: white;
+               border: 1px solid white;
+               font-size: 25px;
+               font-family: 'Open Sans', sans-serif;
+
+             }
+              .to4 div{
+              	float: left;
+              	margin-left: 18px;
+              	margin-right: 18px;
+              	margin-top: 20px;
+              	padding: 0,17px,0,17px;
+
+              }
+               .to4 img{
+               	width: 300px;
+               	height: 300px;
+               }
+                .to5 div{
+               float: left;
+               margin-left: 18px;
+               margin-right: 18px;
+               margin-top: 20px;
+               padding: 0,17px,0,17px;
+              }
+                  .to5 img{
+                  width: 300px;
+                  height: 300px;
+               }
+                 .to6 span {
+                     position: relative;
+                     bottom: 330px;
+                     left: 580px;
+                     color: white;
+                     font-size: 35px;
+                     font-family: 'Open Sans', sans-serif;
+                     font-weight: bold;
+                     letter-spacing: 1px;
+                 }
+                  .to6 p{
+                     position: relative;
+                     bottom: 313px;
+                     padding-left: 620px;
+                     color: white;
+                     font-size: 22px;
+                     font-family: 'Open Sans', sans-serif;
+                     letter-spacing: 1px;
+                         
+                  }
+                    .to6 button{
+               
+               border-radius: 5px;
+               background: rgba(255,255,255,.3);
+               color: white;
+               border: 1px solid white;
+               font-size: 25px;
+               font-family: 'Open Sans', sans-serif;
+               margin-top: 55px;
+               margin-left: 33px;
+              }
+img:hover{
+   opacity: 0.5;
+}
+   .to7 img{
+      float: left;
+      width: 550px;
+      height:550px;
+      margin-left: 90px;
+   }
+      .to8 img{
+      float: left;
+      width: 550px;
+      height:550px;
+      margin-left: 90px;
+      margin-top: 15px;
+   }
+       .to9{
+         height: 200px;
+         width: 1005;
+         background:black;
+         margin-top: 1150PX;
+       }
+         .to9 h2{
+            color: white;
+            font-family: 'Open Sans', sans-serif;
+            font-weight: bold;
+            text-align: center;
+            padding-top: 40px;
+
+
+
+         }
+

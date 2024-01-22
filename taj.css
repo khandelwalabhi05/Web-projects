@@ -1,0 +1,149 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+  .taj01{
+  	  height: 50px;
+  	  width: 100%;
+  	  background: white;
+  }
+   .taj01 img{
+   	  height: 41px;
+    width: 51px;
+    margin-left: 50px;
+   }
+    .taj01 a{
+    	text-decoration: none;
+    	color: #4a4a4a;
+        font-family: Helvetica, sans-serif;
+        font-weight: 600;
+        font-size: 12px;
+        padding-left: 25px;
+        position: relative;
+    	bottom: 8px;
+}
+   .taj01 img{
+   	   position: relative;
+    bottom: -3px;
+   }
+    .taj01 button{
+    	  font-family: Helvetica, sans-serif;
+    	  background: #aa7938;
+    font-size: 12px;
+     height: 31px;
+     width: 107px;
+     text-align: center;
+     border: 1px solid #aa7938;
+    border-radius:3px;
+    color: white;
+    position: relative;
+    bottom: 11px;
+    left: 25px;
+}
+   .taj02 img{
+       width: 100%;
+   	   }
+    .taj02 button{
+    	position: relative;
+        bottom: 200px;
+        font-family: Helvetica, sans-serif;
+    	  background: #aa7938;
+    font-size: 12px;
+     height: 31px;
+     width: 107px;
+     text-align: center;
+     border: 1px solid #aa7938;
+    border-radius:3px;
+    color: white;
+    box-shadow: 0px 0px 10px 0px #000000;
+    }
+       .taj03{
+       	height: 125px;
+       	width: 100%;
+       	background: #1a0032;
+       	position: relative;
+       	bottom: 35px;
+       }
+        .taj03 img{
+            height: 84px;
+                 }
+      .taj03 button{
+                position: relative;
+    background: #FF9600;
+    border: 1px solid #FF9600;
+    border-radius: 16px;
+    font-family: calibri;
+    padding: 6px 5px;
+    letter-spacing: 1.5px;
+    text-align: center;
+    color: white;
+    position: relative;
+    bottom: -6px;
+    left: -147px;
+           }
+            .v1{
+                 border-left: 5px solid white;
+                 height: 122px;
+                 margin-left: 229px;
+                 position: relative;
+                 bottom: 159px;
+            }
+               .taj04 img{
+               height: 62px;
+                position: relative;
+                margin-left: 362px;
+                bottom: 264px;
+                 color: #FF9600;
+               }
+                .taj04 span{
+                    position: relative;
+                    bottom: 232px;
+                    color: wi;
+                    color: white;
+                    right: 102px;
+                }
+                 .taj05 img{
+    height: 62px;
+    position: relative;
+    margin-left: 616px;
+    bottom: 322px;
+    color: #FF9600;
+                 }
+                   .taj05 span{
+                    position: relative;
+    bottom: 297px;
+    right: 125px;
+    color: white;
+                   }
+                     .taj06 img{
+                    height: 62px;
+    position: relative;
+    margin-left: 898px;
+    bottom: 381px;
+    color: #FF9600;
+                 }
+                  .taj06 span{
+                    position: relative;
+    bottom: 362px;
+    right: 89px;
+    color: white;
+                   }
+
+                    .taj07 img{
+                    height: 62px;
+    position: relative;
+    margin-left: 1133px;
+    bottom: 450px;
+    color: #FF9600;
+                 }
+                  .taj07 span{
+                    position: relative;
+    bottom: 427px;
+    right: 100px;
+    color: white;
+                   }
+                        .ban01{
+                            background: white;
+                            width: 100%;
+                            height: 500px;
+                        }
